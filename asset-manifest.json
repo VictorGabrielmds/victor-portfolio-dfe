@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/victor-portfolio-dfe/static/css/main.0b1fc398.css",
-    "main.js": "/victor-portfolio-dfe/static/js/main.6aed0190.js",
+    "main.js": "/victor-portfolio-dfe/static/js/main.4d05bd06.js",
     "static/js/563.b3c0a1ad.chunk.js": "/victor-portfolio-dfe/static/js/563.b3c0a1ad.chunk.js",
     "static/media/img-vitu.png": "/victor-portfolio-dfe/static/media/img-vitu.b48e32e4bd5c3be269e5.png",
     "static/media/img-natullie.png": "/victor-portfolio-dfe/static/media/img-natullie.7997e3166a3094e3d4c7.png",
@@ -17,17 +17,17 @@
     "static/media/GOLDPLAY-LIGHT.TTF": "/victor-portfolio-dfe/static/media/GOLDPLAY-LIGHT.d4ba9764390b0e0973b2.TTF",
     "static/media/GOLDPLAY-REGULAR.TTF": "/victor-portfolio-dfe/static/media/GOLDPLAY-REGULAR.7b61b804f788bc7d05c6.TTF",
     "static/media/GOLDPLAY-THIN.TTF": "/victor-portfolio-dfe/static/media/GOLDPLAY-THIN.440edef5646e9c395343.TTF",
-    "static/media/img-cs.png": "/victor-portfolio-dfe/static/media/img-cs.bc9d124733f197651a29.png",
     "static/media/victor-bg-title.png": "/victor-portfolio-dfe/static/media/victor-bg-title.54be3e920237253409cc.png",
+    "static/media/img-cs.jpeg": "/victor-portfolio-dfe/static/media/img-cs.bb81201cc0cb32de8151.jpeg",
     "static/media/COSMIC-SPACE-FREE-BF65B2EC851411E.OTF": "/victor-portfolio-dfe/static/media/COSMIC-SPACE-FREE-BF65B2EC851411E.eebb29b47df3c9f5acba.OTF",
     "static/media/logo.svg": "/victor-portfolio-dfe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/victor-portfolio-dfe/index.html",
     "main.0b1fc398.css.map": "/victor-portfolio-dfe/static/css/main.0b1fc398.css.map",
-    "main.6aed0190.js.map": "/victor-portfolio-dfe/static/js/main.6aed0190.js.map",
+    "main.4d05bd06.js.map": "/victor-portfolio-dfe/static/js/main.4d05bd06.js.map",
     "563.b3c0a1ad.chunk.js.map": "/victor-portfolio-dfe/static/js/563.b3c0a1ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b1fc398.css",
-    "static/js/main.6aed0190.js"
+    "static/js/main.4d05bd06.js"
   ]
 }
