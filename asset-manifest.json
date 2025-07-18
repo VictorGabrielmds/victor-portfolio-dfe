@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/victor-portfolio-dfe/static/css/main.7d21ff83.css",
-    "main.js": "/victor-portfolio-dfe/static/js/main.752e8045.js",
+    "main.css": "/victor-portfolio-dfe/static/css/main.12f6b4aa.css",
+    "main.js": "/victor-portfolio-dfe/static/js/main.618e8705.js",
     "static/js/563.b3c0a1ad.chunk.js": "/victor-portfolio-dfe/static/js/563.b3c0a1ad.chunk.js",
     "static/media/img-vitu.png": "/victor-portfolio-dfe/static/media/img-vitu.b48e32e4bd5c3be269e5.png",
     "static/media/img-natullie.png": "/victor-portfolio-dfe/static/media/img-natullie.7997e3166a3094e3d4c7.png",
@@ -22,12 +22,12 @@
     "static/media/COSMIC-SPACE-FREE-BF65B2EC851411E.OTF": "/victor-portfolio-dfe/static/media/COSMIC-SPACE-FREE-BF65B2EC851411E.eebb29b47df3c9f5acba.OTF",
     "static/media/logo.svg": "/victor-portfolio-dfe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/victor-portfolio-dfe/index.html",
-    "main.7d21ff83.css.map": "/victor-portfolio-dfe/static/css/main.7d21ff83.css.map",
-    "main.752e8045.js.map": "/victor-portfolio-dfe/static/js/main.752e8045.js.map",
+    "main.12f6b4aa.css.map": "/victor-portfolio-dfe/static/css/main.12f6b4aa.css.map",
+    "main.618e8705.js.map": "/victor-portfolio-dfe/static/js/main.618e8705.js.map",
     "563.b3c0a1ad.chunk.js.map": "/victor-portfolio-dfe/static/js/563.b3c0a1ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d21ff83.css",
-    "static/js/main.752e8045.js"
+    "static/css/main.12f6b4aa.css",
+    "static/js/main.618e8705.js"
   ]
 }
