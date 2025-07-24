@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/victor-portfolio-dfe/static/css/main.49e15b64.css",
+    "main.css": "/victor-portfolio-dfe/static/css/main.1c41a0cd.css",
     "main.js": "/victor-portfolio-dfe/static/js/main.725f24c9.js",
     "static/js/563.b3c0a1ad.chunk.js": "/victor-portfolio-dfe/static/js/563.b3c0a1ad.chunk.js",
     "static/media/img-vitu.png": "/victor-portfolio-dfe/static/media/img-vitu.b48e32e4bd5c3be269e5.png",
@@ -22,12 +22,12 @@
     "static/media/img-cs.jpeg": "/victor-portfolio-dfe/static/media/img-cs.9e94e603c79e2c36e63c.jpeg",
     "static/media/logo.svg": "/victor-portfolio-dfe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/victor-portfolio-dfe/index.html",
-    "main.49e15b64.css.map": "/victor-portfolio-dfe/static/css/main.49e15b64.css.map",
+    "main.1c41a0cd.css.map": "/victor-portfolio-dfe/static/css/main.1c41a0cd.css.map",
     "main.725f24c9.js.map": "/victor-portfolio-dfe/static/js/main.725f24c9.js.map",
     "563.b3c0a1ad.chunk.js.map": "/victor-portfolio-dfe/static/js/563.b3c0a1ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49e15b64.css",
+    "static/css/main.1c41a0cd.css",
     "static/js/main.725f24c9.js"
   ]
 }
